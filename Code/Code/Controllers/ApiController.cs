@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Code.Controllers
 {
-    public class HomeController : ControllerBase
+    public class ApiController : ControllerBase
     {
         public IActionResult Index()
         {
             return null;
         }
-
-
     }
 }
