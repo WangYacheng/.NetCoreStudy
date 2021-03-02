@@ -1,8 +1,8 @@
-﻿using Dang.Domain.Core.Events;
+﻿
 using System;
 
 
-namespace Dang.Domain.Core.Notifications
+namespace Dang.Domain.Core
 {
     public class DomainNotification:Event
     {

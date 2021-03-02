@@ -1,7 +1,7 @@
 ﻿using System;
 using MediatR;
 
-namespace Dang.Domain.Core.Events
+namespace Dang.Domain.Core
 {
     public abstract class Event:Message,INotification
     {
