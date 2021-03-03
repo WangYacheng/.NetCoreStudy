@@ -1,0 +1,11 @@
+DROP TABLE if EXISTS relation_dang
+CREATE TABLE relation_dang(
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR (16) NOT NULL COMMENT '姓名',
+  relation_type INT  NOT NULL COMMENT  '关系类型',
+  estimate_dang VARCHAR (64)  COMMENT '当评价',
+  estimate_other VARCHAR (128)  COMMENT '其他评价',
+  update_time DATETIME COMMENT '登录时间',
+  remark VARCHAR(50) COMMENT '备注',
+  PRIMARY KEY(id)
+) COMMENT '人物关系表';

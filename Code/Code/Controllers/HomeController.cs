@@ -10,18 +10,23 @@ using System.Threading.Tasks;
 namespace Code.Controllers
 {
     [Route("api/[controller]/[action]")]
-    public class HomeController : ApiController
+    public class HomeController : ControllerBase
     {
-        public HomeController(INotificationHandler<DomainNotification> notification,
-            IMediatorHandler mediator) :base(notification,mediator)
-        { 
-            
-        }
+        //public HomeController(INotificationHandler<DomainNotification> notification,
+        //    IMediatorHandler mediator) :base(notification,mediator)
+        //{ 
+        //    
+        //}
+        
         public IActionResult Index()
         {
-            return Response(result:"sss",status:1);
+            //return Response(result:"sss",status:1);
+            return null;
         }
 
-
+        public string Index2()
+        {
+            return "string";
+        }
     }
 }
