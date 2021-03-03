@@ -1,0 +1,8 @@
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\obj\Debug\netcoreapp3.1\Dang.Domain.Core.AssemblyInfoInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\obj\Debug\netcoreapp3.1\Dang.Domain.Core.AssemblyInfo.cs
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\obj\Debug\netcoreapp3.1\Dang.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\bin\Debug\netcoreapp3.1\Dang.Domain.Core.deps.json
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\bin\Debug\netcoreapp3.1\Dang.Domain.Core.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\bin\Debug\netcoreapp3.1\Dang.Domain.Core.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\obj\Debug\netcoreapp3.1\Dang.Domain.Core.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Domain.Core\obj\Debug\netcoreapp3.1\Dang.Domain.Core.pdb

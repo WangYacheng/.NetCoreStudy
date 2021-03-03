@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1C/lAFHAcdYHQfujWpcGdeF/Miktj9ZTV5gfwbVPqysuxbrB4h1JM1uW+Y1U468LuDyY4DwRhF/UivJLG6xzw==",
+  "dgSpecHash": "QRQqd52iER+3s3CbmioBYhVkfHJ7cZjPfMhGLHQugonNxb7TXFeNNRItgwPMrUGps8W3VJzSLxVYjAjZSOBoAQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.NetCoreStudy\\Code\\Code\\Code.csproj",
+  "projectFilePath": "D:\\Projects\\.NetCoreStudy\\Code\\Dang.Domain\\Dang.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wangy\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\wangy\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
