@@ -26,6 +26,7 @@ namespace Code
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddTransient<Dang.Infrastruct.DB.ISqlHelper>(sp => new Dang.Infrastruct.DB.MSSqlHelper(Configuration["ConnectionStrings:DefaultConnection"]));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -12,7 +12,7 @@ namespace Dang.Domain.Models
         /// </summary>
         [DisplayName("姓名")]
         [Core.Dapper.Column(Name ="name")]
-        public int Name { get; set; }
+        public string Name { get; set; }
         /// <summary>
         /// 关系类型
         /// </summary>
@@ -24,7 +24,7 @@ namespace Dang.Domain.Models
         /// </summary>
         [DisplayName("当评价")]
         [Core.Dapper.Column(Name = "estimate_dang")]
-        public decimal EstimateDang { get; set; }
+        public string EstimateDang { get; set; }
         /// <summary>
         /// 其他评价
         /// </summary>
@@ -38,13 +38,13 @@ namespace Dang.Domain.Models
         /// </summary>
         [DisplayName("修改时间")]
         [Core.Dapper.Column(Name = "update_time")]
-        public int UpdateTime { get; set; }
+        public DateTime UpdateTime { get; set; }
         /// <summary>
         /// 当评价
         /// </summary>
         [DisplayName("备注")]
         [Core.Dapper.Column(Name = "remark")]
-        public decimal Remark { get; set; }
+        public string Remark { get; set; }
 
     }
 }
