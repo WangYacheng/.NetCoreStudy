@@ -1,0 +1,16 @@
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Domain.Core.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Domain.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Domain.Core.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.csprojAssemblyReference.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.AssemblyInfoInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.AssemblyInfo.cs
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Infrastruct.deps.json
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Infrastruct.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Infrastruct.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Domain.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.csproj.CopyComplete
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\obj\Debug\netcoreapp3.1\Dang.Infrastruct.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Common.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Infrastruct\bin\Debug\netcoreapp3.1\Dang.Common.pdb

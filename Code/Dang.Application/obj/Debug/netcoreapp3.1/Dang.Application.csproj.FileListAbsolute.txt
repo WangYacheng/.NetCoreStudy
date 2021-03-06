@@ -1,0 +1,14 @@
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.csprojAssemblyReference.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.AssemblyInfoInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.AssemblyInfo.cs
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Application.deps.json
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Application.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Application.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Domain.Core.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Domain.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Domain.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Application\bin\Debug\netcoreapp3.1\Dang.Domain.Core.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.csproj.CopyComplete
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Application\obj\Debug\netcoreapp3.1\Dang.Application.pdb

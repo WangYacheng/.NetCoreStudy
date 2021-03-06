@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using Dang.Domain.Core.Datas;
+using Dang.Domain.Core;
 
 namespace Dang.Domain.Core.Operations
 {

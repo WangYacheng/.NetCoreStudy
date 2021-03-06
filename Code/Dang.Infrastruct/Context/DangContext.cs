@@ -9,7 +9,7 @@ using System.Reflection;
 using System.Text;
 using Dang.Infrastruct.DB;
 
-namespace Dang.Infrastruct.Context
+namespace Dang.Context
 {
     public class DangContext:DbContext
     {

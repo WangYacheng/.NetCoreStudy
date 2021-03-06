@@ -1,0 +1,8 @@
+D:\Projects\.NetCoreStudy\Code\Dang.Common\bin\Debug\netcoreapp3.1\Dang.Common.deps.json
+D:\Projects\.NetCoreStudy\Code\Dang.Common\bin\Debug\netcoreapp3.1\Dang.Common.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Common\bin\Debug\netcoreapp3.1\Dang.Common.pdb
+D:\Projects\.NetCoreStudy\Code\Dang.Common\obj\Debug\netcoreapp3.1\Dang.Common.AssemblyInfoInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Common\obj\Debug\netcoreapp3.1\Dang.Common.AssemblyInfo.cs
+D:\Projects\.NetCoreStudy\Code\Dang.Common\obj\Debug\netcoreapp3.1\Dang.Common.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCoreStudy\Code\Dang.Common\obj\Debug\netcoreapp3.1\Dang.Common.dll
+D:\Projects\.NetCoreStudy\Code\Dang.Common\obj\Debug\netcoreapp3.1\Dang.Common.pdb

@@ -5,7 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dang.Application\Dang.Application.csproj" />
+    <ProjectReference Include="..\Dang.CrossCutting.IOC\Dang.CrossCutting.IOC.csproj" />
     <ProjectReference Include="..\Dang.Domain.Core\Dang.Domain.Core.csproj" />
+    <ProjectReference Include="..\Dang.Infrastruct\Dang.Infrastruct.csproj" />
   </ItemGroup>
 
 

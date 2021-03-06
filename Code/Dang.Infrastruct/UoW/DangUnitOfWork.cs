@@ -1,13 +1,8 @@
 ﻿using Dang.Domain.Core.Operations;
 using Dang.Domain.Interfaces;
+using Dang.Infrastruct.Collections;
+using Dang.Infrastruct.DapperAdapter;
 using Dapper;
-using JLSys.Domain.Core;
-using JLSys.Domain.Core.Datas;
-using JLSys.Domain.Interfaces;
-using JLSys.Infra.Data.Context;
-using JLSys.Infra.Data.Repository;
-using JLSys.Infrastruct.Collections;
-using JLSys.Infrastruct.DapperAdapter;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage;
@@ -16,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace JLSys.Infra.Data.UoW
+namespace Dang.Infra.Data.UoW
 {
     /// <summary>
     /// 工作单元类
@@ -148,7 +143,7 @@ namespace JLSys.Infra.Data.UoW
                 throw new ArgumentOutOfRangeException(nameof(pageIndex));
 
             var partedSql = PagingUtil.SplitSql(pageSql);
-            Infrastruct.DapperAdapter.ISqlAdapter sqlAdapter = null;
+            Dang.Infrastruct.DapperAdapter.ISqlAdapter sqlAdapter = null;
             if (_context.Database.IsMySql())
                 sqlAdapter = new MysqlAdapter();
             if (sqlAdapter == null)
